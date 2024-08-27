@@ -17,3 +17,7 @@ mkdir git repo
 ```
 ``` javascript
 var myking = "kinah, resume";
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
